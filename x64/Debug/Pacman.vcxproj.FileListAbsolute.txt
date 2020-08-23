@@ -1,0 +1,2 @@
+F:\Projects\Visual Studio Projects\Pacman\x64\Debug\Pacman.exe
+F:\Projects\Visual Studio Projects\Pacman\x64\Debug\Pacman.pdb
